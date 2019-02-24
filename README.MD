@@ -96,7 +96,7 @@ Remember to provide complete resource body since PATCH is not implemented
 }
 ```
 ### Resource Structure
-[Structure](Resource_structure.png)
+![Structure](Resource_structure.png)
 
 ## Built using
 * ASP.NET core - Using MVC
