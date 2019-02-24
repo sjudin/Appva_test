@@ -1,0 +1,14 @@
+E:\c#-projects\Appva_test\Appva_test\bin\Debug\netcoreapp2.1\Appva_test.deps.json
+E:\c#-projects\Appva_test\Appva_test\bin\Debug\netcoreapp2.1\Appva_test.runtimeconfig.json
+E:\c#-projects\Appva_test\Appva_test\bin\Debug\netcoreapp2.1\Appva_test.runtimeconfig.dev.json
+E:\c#-projects\Appva_test\Appva_test\bin\Debug\netcoreapp2.1\Appva_test.dll
+E:\c#-projects\Appva_test\Appva_test\obj\Debug\netcoreapp2.1\Appva_test.csprojAssemblyReference.cache
+E:\c#-projects\Appva_test\Appva_test\obj\Debug\netcoreapp2.1\Appva_test.csproj.CoreCompileInputs.cache
+E:\c#-projects\Appva_test\Appva_test\obj\Debug\netcoreapp2.1\Appva_test.RazorAssemblyInfo.cache
+E:\c#-projects\Appva_test\Appva_test\obj\Debug\netcoreapp2.1\Appva_test.RazorAssemblyInfo.cs
+E:\c#-projects\Appva_test\Appva_test\obj\Debug\netcoreapp2.1\Appva_test.AssemblyInfoInputs.cache
+E:\c#-projects\Appva_test\Appva_test\obj\Debug\netcoreapp2.1\Appva_test.AssemblyInfo.cs
+E:\c#-projects\Appva_test\Appva_test\obj\Debug\netcoreapp2.1\Appva_test.RazorTargetAssemblyInfo.cache
+E:\c#-projects\Appva_test\Appva_test\bin\Debug\netcoreapp2.1\Appva_test.pdb
+E:\c#-projects\Appva_test\Appva_test\obj\Debug\netcoreapp2.1\Appva_test.dll
+E:\c#-projects\Appva_test\Appva_test\obj\Debug\netcoreapp2.1\Appva_test.pdb
