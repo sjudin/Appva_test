@@ -1,3 +1,4 @@
+using System.ComponentModel.DataAnnotations;
 
 namespace Appva_test.Models
 {
@@ -5,8 +6,12 @@ namespace Appva_test.Models
     {
         public int TodoItemId { get; set; }
 
+        // Model validations
+        [Required]
         public string Name { get; set; }
+
         public string Desc { get; set; }
+
         public bool IsDone { get; set; }
     }
 }

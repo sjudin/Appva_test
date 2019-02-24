@@ -60,9 +60,8 @@ namespace Appva_test.Controllers
         public async Task<ActionResult<TodoItem>> PutTodoItem(int id, TodoItem item)
         {
             if(id != item.TodoItemId)
-            {
                 return BadRequest();
-            }
+
             _context.Entry(item).State = EntityState.Modified;
             await _context.SaveChangesAsync();
 
@@ -75,9 +74,8 @@ namespace Appva_test.Controllers
         {
             var item = await _context.TodoItems.FindAsync(id);
             if(item == null)
-            {
                 return NotFound();
-            }
+
             _context.TodoItems.Remove(item);
             await _context.SaveChangesAsync();
 
