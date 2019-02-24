@@ -16,6 +16,8 @@ A simple CRUD application for a Todo list application
 
 * Fetching of TodoItems related to a given DateItem is not done in the best way here, did not have time to figure it out completely but it works.
 
+* Split up Controllers and Models into separate files for DateItem and TodoItem, or rename the files to make it clearer what the purpose of the files are.
+
 ## Endpoints
 ### TodoItem
 ```
