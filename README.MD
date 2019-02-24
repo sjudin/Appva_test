@@ -30,6 +30,9 @@ Returns specific TodoItem item at given id
 ```
 POST api/todo
 Takes a TodoItem resource as request body, JSON is accepted
+Parameters: {
+      int dateItemId(optional) -- Use this if you wish to add the created TodoItem to a DateItem directly
+}
 
 Returns 201 success, along with created resource
 ```
